@@ -1,0 +1,43 @@
+body {
+  background-color: #aeaba1;
+}
+h1{margin-left: 5px;}
+
+h5 {
+  color: rgb(208, 154, 54);
+  margin-top: 5px;
+  
+}
+#main-section {
+  display: flex;
+  margin-top: 70px;
+
+}
+img {
+  height: 120px;
+  width: 120px;
+}
+#h31 {
+  position: absolute;
+  top: 195px;
+  left: 137px;
+}
+
+#h32 {
+  position: absolute;
+  top: 195px;
+  left: 762px;
+}
+p {
+  margin-left: 10px;
+}
+
+#img2 {
+    margin-left: 80px;
+}
+#btn{
+    position:absolute;
+    bottom: 100px;
+    margin-left: 1200px;
+    
+}
